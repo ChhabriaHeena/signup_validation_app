@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/signup_validation_app/static/css/main.4341f7a1.css",
+    "main.js": "/signup_validation_app/static/js/main.23c6baea.js",
+    "index.html": "/signup_validation_app/index.html",
+    "main.4341f7a1.css.map": "/signup_validation_app/static/css/main.4341f7a1.css.map",
+    "main.23c6baea.js.map": "/signup_validation_app/static/js/main.23c6baea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4341f7a1.css",
+    "static/js/main.23c6baea.js"
+  ]
+}
